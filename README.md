@@ -4,7 +4,7 @@ This repository contains the notebooks and resources for our manuscript "Trained
 
 # Data Availability
 
-![image](https://github.com/user-attachments/assets/3d41de0d-aae4-4c13-8894-e73bf8669001)
+![image](https://github.com/user-attachments/assets/655467fb-dde6-41ae-aff7-ed10fe137f9d)
 # Model Training and Validation
 
 # Terminology Notes
