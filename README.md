@@ -5,7 +5,11 @@ This repository contains the notebooks and resources for our manuscript "Trained
 # Data Availability
 
 ![image](https://github.com/user-attachments/assets/655467fb-dde6-41ae-aff7-ed10fe137f9d)
-# Model Training and Validation
+# Model Training
+
+# Model Testing
+
+# Data Analysis and Visualization
 
 # Terminology Notes
 In our documentation, we sometimes use the terms gender and sex interchangeably, though they are distinct concepts. Similarly, race and ethnicity may be conflated at times. This is due to differences in how these categories were recorded in publicly available datasets. Age categories are defined as follows: 0 → 0-20 years old; 1 → 21-40 years old; 2 → 41-60 years old; 3 → 61-80 years old; 4 → 81+ years old.
